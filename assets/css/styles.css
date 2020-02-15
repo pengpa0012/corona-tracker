@@ -67,3 +67,8 @@ body{
     }
 }
 
+@media (max-width: 670px){
+    .container .country-stats{
+        flex-direction: column;
+    }
+}
